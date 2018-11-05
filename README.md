@@ -1,0 +1,1 @@
+A simple image gallery with vanilla JavaScript (ES2015)
