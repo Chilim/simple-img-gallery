@@ -10,6 +10,6 @@ const imgClick = (evt) => {
   imgs.forEach(img => (img.style.opacity = 1));
   main.src = evt.target.src;
   evt.target.style.opacity = opacity;
-}
+};
 
 imgs.forEach(img => img.addEventListener('click', imgClick));
